@@ -1,0 +1,17 @@
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore data folder or large file
+data/credits.csv
+
+# OS and Python specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.env
+
+# VSCode/IDE settings (optional)
+.vscode/
+.idea/
